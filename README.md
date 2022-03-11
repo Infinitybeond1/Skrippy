@@ -1,7 +1,7 @@
 # Skrippy
 
 To selfhost this bot: <br /> 
-    <tab />1. Clone the repository <br /> 
+    1. Clone the repository <br /> 
     2. Rename config.example.json to config.json <br /> 
     3. Install packages with your nodejs package manager of choice (npm/yarn/pnpm) <br /> 
     4. Run the start script with the package manager of choice (`npm start`/`yarn start`/`pnpm start`) <br /> 
